@@ -1,8 +1,7 @@
-# ASTRO
-This Tools Provide By ASTRO Random, Follower User Clone 
-# ASTRO
+# VETOM
+This Tools Provide By VETOM Random, Follower User Clone 
 
-python3 :)
+PYTHON 3 :)
 
   
 
